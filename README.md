@@ -13,8 +13,6 @@ Proyecto E-commerce "Vida Verde" de compra-venta de frutas/verduras, empleando s
 	- MySQL v8.x.x
 	- Pip 20.x.x
 	- python3.8-venv
-## Esquema
-![diagrama](docs/e-commerce.png)
 ## Pre-Instalación
 ### 1-Instalar Python
 #### En Linux
